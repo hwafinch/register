@@ -1,0 +1,96 @@
+{
+  "data_source": "IP2Location LITE (simulated)",
+  "timestamp": "[GEOLOCATION_EXPORT_TIMESTAMP]",
+  "ips": {
+    "192.168.1.1": {
+      "ip": "192.168.1.1",
+      "type": "private",
+      "location": {
+        "city": "Berlin",
+        "country": "Germany",
+        "country_code": "DE",
+        "continent": "Europe",
+        "latitude": 52.5200,
+        "longitude": 13.4050,
+        "timezone": "Europe/Berlin"
+      },
+      "isp": "Deutsche Telekom (Private IP)",
+      "organization": "Local Network"
+    },
+    "45.79.89.12": {
+      "ip": "45.79.89.12",
+      "type": "public",
+      "location": {
+        "city": "Warsaw",
+        "country": "Poland",
+        "country_code": "PL",
+        "continent": "Europe",
+        "latitude": 52.2297,
+        "longitude": 21.0122,
+        "timezone": "Europe/Warsaw"
+      },
+      "isp": "Orange Polska",
+      "organization": "Orange Fiber"
+    },
+    "203.0.113.45": {
+      "ip": "203.0.113.45",
+      "type": "public",
+      "location": {
+        "city": "Sydney",
+        "country": "Australia",
+        "country_code": "AU",
+        "continent": "Oceania",
+        "latitude": -33.8688,
+        "longitude": 151.2093,
+        "timezone": "Australia/Sydney"
+      },
+      "isp": "OptusNet",
+      "organization": "Optus Broadband"
+    },
+    "85.214.82.47": {
+      "ip": "85.214.82.47",
+      "type": "public",
+      "location": {
+        "city": "Hamburg",
+        "country": "Germany",
+        "country_code": "DE",
+        "continent": "Europe",
+        "latitude": 53.5511,
+        "longitude": 9.9937,
+        "timezone": "Europe/Berlin"
+      },
+      "isp": "Vodafone Germany",
+      "organization": "Vodafone Kabel Deutschland"
+    },
+    "198.51.100.73": {
+      "ip": "198.51.100.73",
+      "type": "public",
+      "location": {
+        "city": "Toronto",
+        "country": "Canada",
+        "country_code": "CA",
+        "continent": "North America",
+        "latitude": 43.6532,
+        "longitude": -79.3832,
+        "timezone": "America/Toronto"
+      },
+      "isp": "Rogers Communications",
+      "organization": "Rogers Cable"
+    },
+    "212.58.97.34": {
+      "ip": "212.58.97.34",
+      "type": "public",
+      "location": {
+        "city": "London",
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "continent": "Europe",
+        "latitude": 51.5074,
+        "longitude": -0.1278,
+        "timezone": "Europe/London"
+      },
+      "isp": "BT Group",
+      "organization": "BT Infinity"
+    }
+  }
+}
