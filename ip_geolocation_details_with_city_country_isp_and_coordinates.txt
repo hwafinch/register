@@ -1,7 +1,5 @@
 {
   "case_id": "CASE_001_SUSPICIOUS",
-  "account_id": "player_A1B2C3",
-  "game_name": "Starfall Arena",
   "report_generated": "2026-06-11T21:00:00Z",
   "login_attempts": [
     {
